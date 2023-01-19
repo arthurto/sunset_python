@@ -4,4 +4,4 @@ Eu estava conversando no WhatsApp com meus amigos Caio César e Frederico Pedros
 
 Alguns minutos depois eu obtive o seguinte plot.
 
-[[pds.png]]
+![alt text](pds.png "")
